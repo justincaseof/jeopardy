@@ -5,7 +5,10 @@
     <script src="include/jquery-1.11.0.min.js"></script>
     <script src="include/bootstrap.min.js"></script>
     <style>
-        body { background:url(3840x2400.png) center center; }
+        body {
+            background:url(3840x2400.png) center center;
+            background-color: rgba(63, 63, 191, 1);
+        }
         .question{
             height:100px;
             vertical-align: middle;
@@ -41,9 +44,14 @@
         #player7 { border-bottom-color: #D57900; } .answered7 { background-color: #D57900; } /* orange */
         #player8 { border-bottom-color: #009A93; } .answered8 { background-color: #009A93; } /* dark turquoise */
         #player9 { border-bottom-color: #EE8EFE; } .answered9 { background-color: #EE8EFE; } /* pink */
+
+	.quizheading { color: #FFFFFF; font-size: 40px; text-align: center;  }
     </style>
 </head>
 <body>
+    <div class="quizheading">
+        The Secret Life of Walter Mitty
+    </div>
     <div class="container">
         <div class="panel panel-default">
         <div class="panel-heading"></div>
