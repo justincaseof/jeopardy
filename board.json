@@ -1,578 +1,333 @@
 [
     {
-        "name":"category1",
+        "name":"Zahlen",
         "questions":[
             {
                 "value":100,
-               "question":"Question 1 in category 1 for 100 points",
+               "question":"Welche Nummer hat das Negativ für das letzte Cover des Time Magazine?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"25",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":200,
-               "question":"Question 2 in category 1 for 200 points",
+               "question":"Wie heißt die Bahn-Station an der Walter morgens einsteigt, um zur Arbeit zu fahren?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"125 Street",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":300,
-               "question":"Question 3 in category 1 for 300 points",
+               "question":"Wie viele Kaffees holt Cheryl, als sie auf Walter am Brunnen vor dem Time & Life Gebäude trifft?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"4",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":400,
-               "question":"Question 4 in category 1 for 400 points",
+               "question":"Welche Hausnummer hat der Kneipe in Grönland?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"124",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":500,
-               "question":"Question 5 in category 1 for 500 points, daily double!",
-			   "double": 1,
+               "question":"Von wann stammt Walters erste Tagebucheintragung im Himalaya?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"08. Mai",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             }
         ]
     },
     {
-        "name":"category2",
+        "name":"Walter Mitty",
         "questions":[
             {
                 "value":100,
-               "question":"Question 1 in category 2 for 100 points",
+               "question":"Welchen Sport hat Walter als Kind erfolgreich betrieben?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Skateboarder",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":200,
-               "question":"Question 2 in category 2 for 200 points",
+               "question":"Wie viele Jahre hat Walter beim Life Magazin gearbeitet?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"16",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":300,
-               "question":"Question 3 in category 2 for 300 points",
+               "question":"Wo hat Walter nach dem Tod seines Vaters gearbeitet?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Pizzakette 'Papa Johns'",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":400,
-               "question":"Question 4 in category 2 for 400 points",
+               "question":"Was kann Walter nach Aussagen seiner Schwester am besten?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Er stellt die besten Mixtapes zusammen",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":500,
-               "question":"Question 5 in category 2 for 500 points",
+               "question":"Nennt zwei der drei denkwürdigen Eigenschaften Walters, welche er im Tagtraum gegenüber Cheryl aufzählt!",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"abenteuerlich, mutig, kreativ",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             }
         ]
     },
     {
-        "name":"category3",
+        "name":"Orte",
         "questions":[
             {
                 "value":100,
-               "question":"Question 1 in category 3 for 100 points",
+               "question":"Wohin reist Walter mit dem Fischerboot?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Island",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":200,
-               "question":"Question 2 in category 3 for 200 points",
+               "question":"In welcher Stadt wird Walter am Flughafen festgenommen?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Los Angeles",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":300,
-               "question":"Question 3 in category 3 for 300 points",
+               "question":"Welcher Hinweis ist auf Negativbild Nummer 27?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Wasser / Meer",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":400,
-               "question":"Question 4 in category 3 for 400 points",
+               "question":"Wie umgeht Walter das Einreiseverbot nach Afghanistan?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Er reis über den Jemen nach Afghanistan",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":500,
-               "question":"Question 5 in category 3 for 500 points",
+               "question":"Wie heißt der Ort in dem Walter in Grönland mit dem Flugzeug ankommt?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Nuuk",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             }
         ]
     },
     {
-        "name":"category4",
+        "name":"Personen",
         "questions":[
             {
                 "value":100,
-               "question":"Question 1 in category 4 for 100 points",
+               "question":"Welchen bösartigen Spitznamen gibt Hendricks Walter beim ersten Aufeinandertreffen?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Major Tom",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":200,
-               "question":"Question 2 in category 4 for 200 points",
+               "question":"Für welches Musical spricht Walters Schwester vor?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Greese",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":300,
-               "question":"Question 3 in category 4 for 300 points",
+               "question":"Wie heißt der Fotograf Sean mit Nachnamen?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"O'Connell",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":400,
-               "question":"Question 4 in category 4 for 400 points",
+               "question":"Welche Form haben die Ohrringe von Walters Mutter?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Herzförmig (blau)",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":500,
-               "question":"Question 4 in category 4 for 500 points",
+               "question":"Wie alt ist Cheryl?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"36",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             }
         ]
     },
     {
-        "name":"category5",
+        "name":"Transportmittel",
         "questions":[
             {
                 "value":100,
-               "question":"Question 1 in category 5 for 100 points",
+               "question":"Wie heißt die Fluggesellschaft mit der Walter nach Grönland fliegt?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Air Greenland",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":200,
-               "question":"Question 2 in category 5 for 200 points",
+               "question":"Was macht Sean gerade, als ihn Walter nur knapp auf Island verpasst?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Er steht auf Doppeldecker und fotografiert",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":300,
-               "question":"Question 3 in category 5 for 300 points",
+               "question":"Steht das rote Mietauto links oder rechts bei der Mietzentrale auf Grönland? (in Fahrtrichtung gesehen)",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"rechts",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                 "value":400,
-               "question":"Question 4 in category 5 for 400 points",
+               "question":"Welches Auto fährt der Hotelbesitzer auf Island?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Lada Niva",
                         "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
                     }
                 ]
             },
             {
                "value":500,
-               "question":"Question 5 in category 5 for 500 points",
+               "question":"Wovor warnt das Straßenschild, gegen das Walter mit dem Fahrrad fährt?",
                 "answers":[
                     {
-                        "text":"A",
+                        "text":"Achtung Tiere (Schafe/Kühe)",
                         "correct":true
-                    },
+                    }
+                ]
+            }
+        ]
+    },
+	{
+        "name":"Sontiges",
+        "questions":[
+            {
+                "value":100,
+               "question":"Womit werden die Warlords bestochen?",
+                "answers":[
                     {
-                        "text":"B",
-                        "correct":false
-                    },
+                        "text":"Mandarinenkuchen",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":200,
+               "question":"Wie heißt die Datingplattform, bei der sich Walter registriert hat?",
+                "answers":[
                     {
-                        "text":"C",
-                        "correct":false
-                    },
+                        "text":"eHarmony",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":300,
+               "question":"Welches Synonym verwendet Sean für den Schneeleoparden?",
+                "answers":[
                     {
-                        "text":"D",
-                        "correct":false
+                        "text":"Geisterkatze",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":400,
+               "question":"Was essen Walter und Todd bei ihrem persönlichen Kennenlernen?",
+                "answers":[
+                    {
+                        "text":"Zimtschnecken",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+               "value":500,
+               "question":"Welches Zitat gibt Walter an Hendricks zurück, als er ihm das Negativ für das letzte Cover auf den Tisch legt?",
+                "answers":[
+                    {
+                        "text":"Schreiben sie das auf ein Schild für Ihren nächsten Job.",
+                        "correct":true
                     }
                 ]
             }
         ]
     }
 ]
+
