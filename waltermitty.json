@@ -1,0 +1,333 @@
+[
+    {
+        "name":"Zahlen",
+        "questions":[
+            {
+                "value":100,
+               "question":"Welche Nummer hat das Negativ für das letzte Cover des Time Magazine?",
+                "answers":[
+                    {
+                        "text":"25",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":200,
+               "question":"Wie heißt die Bahn-Station an der Walter morgens einsteigt, um zur Arbeit zu fahren?",
+                "answers":[
+                    {
+                        "text":"125 Street",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":300,
+               "question":"Wie viele Kaffees holt Cheryl, als sie auf Walter am Brunnen vor dem Time & Life Gebäude trifft?",
+                "answers":[
+                    {
+                        "text":"4",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":400,
+               "question":"Welche Hausnummer hat der Kneipe in Grönland?",
+                "answers":[
+                    {
+                        "text":"124",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":500,
+               "question":"Von wann stammt Walters erste Tagebucheintragung im Himalaya?",
+                "answers":[
+                    {
+                        "text":"08. Mai",
+                        "correct":true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Walter Mitty",
+        "questions":[
+            {
+                "value":100,
+               "question":"Welchen Sport hat Walter als Kind erfolgreich betrieben?",
+                "answers":[
+                    {
+                        "text":"Skateboarder",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":200,
+               "question":"Wie viele Jahre hat Walter beim Life Magazin gearbeitet?",
+                "answers":[
+                    {
+                        "text":"16",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":300,
+               "question":"Wo hat Walter nach dem Tod seines Vaters gearbeitet?",
+                "answers":[
+                    {
+                        "text":"Pizzakette 'Papa Johns'",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":400,
+               "question":"Was kann Walter nach Aussagen seiner Schwester am besten?",
+                "answers":[
+                    {
+                        "text":"Er stellt die besten Mixtapes zusammen",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":500,
+               "question":"Nennt zwei der drei denkwürdigen Eigenschaften Walters, welche er im Tagtraum gegenüber Cheryl aufzählt!",
+                "answers":[
+                    {
+                        "text":"abenteuerlich, mutig, kreativ",
+                        "correct":true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Orte",
+        "questions":[
+            {
+                "value":100,
+               "question":"Wohin reist Walter mit dem Fischerboot?",
+                "answers":[
+                    {
+                        "text":"Island",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":200,
+               "question":"In welcher Stadt wird Walter am Flughafen festgenommen?",
+                "answers":[
+                    {
+                        "text":"Los Angeles",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":300,
+               "question":"Welcher Hinweis ist auf Negativbild Nummer 27?",
+                "answers":[
+                    {
+                        "text":"Wasser / Meer",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":400,
+               "question":"Wie umgeht Walter das Einreiseverbot nach Afghanistan?",
+                "answers":[
+                    {
+                        "text":"Er reis über den Jemen nach Afghanistan",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":500,
+               "question":"Wie heißt der Ort in dem Walter in Grönland mit dem Flugzeug ankommt?",
+                "answers":[
+                    {
+                        "text":"Nuuk",
+                        "correct":true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Personen",
+        "questions":[
+            {
+                "value":100,
+               "question":"Welchen bösartigen Spitznamen gibt Hendricks Walter beim ersten Aufeinandertreffen?",
+                "answers":[
+                    {
+                        "text":"Major Tom",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":200,
+               "question":"Für welches Musical spricht Walters Schwester vor?",
+                "answers":[
+                    {
+                        "text":"Greese",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":300,
+               "question":"Wie heißt der Fotograf Sean mit Nachnamen?",
+                "answers":[
+                    {
+                        "text":"O'Connell",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":400,
+               "question":"Welche Form haben die Ohrringe von Walters Mutter?",
+                "answers":[
+                    {
+                        "text":"Herzförmig (blau)",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":500,
+               "question":"Wie alt ist Cheryl?",
+                "answers":[
+                    {
+                        "text":"36",
+                        "correct":true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Transportmittel",
+        "questions":[
+            {
+                "value":100,
+               "question":"Wie heißt die Fluggesellschaft mit der Walter nach Grönland fliegt?",
+                "answers":[
+                    {
+                        "text":"Air Greenland",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":200,
+               "question":"Was macht Sean gerade, als ihn Walter nur knapp auf Island verpasst?",
+                "answers":[
+                    {
+                        "text":"Er steht auf Doppeldecker und fotografiert",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":300,
+               "question":"Steht das rote Mietauto links oder rechts bei der Mietzentrale auf Grönland? (in Fahrtrichtung gesehen)",
+                "answers":[
+                    {
+                        "text":"rechts",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":400,
+               "question":"Welches Auto fährt der Hotelbesitzer auf Island?",
+                "answers":[
+                    {
+                        "text":"Lada Niva",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+               "value":500,
+               "question":"Wovor warnt das Straßenschild, gegen das Walter mit dem Fahrrad fährt?",
+                "answers":[
+                    {
+                        "text":"Achtung Tiere (Schafe/Kühe)",
+                        "correct":true
+                    }
+                ]
+            }
+        ]
+    },
+	{
+        "name":"Sontiges",
+        "questions":[
+            {
+                "value":100,
+               "question":"Womit werden die Warlords bestochen?",
+                "answers":[
+                    {
+                        "text":"Mandarinenkuchen",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":200,
+               "question":"Wie heißt die Datingplattform, bei der sich Walter registriert hat?",
+                "answers":[
+                    {
+                        "text":"eHarmony",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":300,
+               "question":"Welches Synonym verwendet Sean für den Schneeleoparden?",
+                "answers":[
+                    {
+                        "text":"Geisterkatze",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "value":400,
+               "question":"Was essen Walter und Todd bei ihrem persönlichen Kennenlernen?",
+                "answers":[
+                    {
+                        "text":"Zimtschnecken",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+               "value":500,
+               "question":"Welches Zitat gibt Walter an Hendricks zurück, als er ihm das Negativ für das letzte Cover auf den Tisch legt?",
+                "answers":[
+                    {
+                        "text":"Schreiben sie das auf ein Schild für Ihren nächsten Job.",
+                        "correct":true
+                    }
+                ]
+            }
+        ]
+    }
+]
+
